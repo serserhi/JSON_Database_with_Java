@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: src/client/Main.java
+    visible: true
+    learner_created: false
+  - name: src/server/Main.java
+    visible: true
+    learner_created: false
+  - name: test/JsonDatabaseTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5492#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 28 Aug 2024 09:03:08 UTC"
+record: 3
